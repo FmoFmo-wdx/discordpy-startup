@@ -4,7 +4,7 @@ import sys
 # さいころの和を計算する用の関数
 from func import  diceroll
 
-TOKEN = 'NzY4NDcyMDk2MzM4MDgzOTIx.X5A9aQ.5aJNk5x5_NBQeGE_BEouBthOBnc'
+TOKEN = 'NzY4NDcyMDk2MzM4MDgzOTIx.X5A9aQ.x-BeibpCobZM5dchsFYZEdYTYp8'
 
 client = discord.Client()
 
